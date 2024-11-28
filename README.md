@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA204l3WTFshIcxt_0PNut2t0x2l2hC6BstA&s" height="40" alt="mudblazor logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:820/1*SHqpOlJV_JzZuJDvdM-cLQ.png" height="40" alt="mudblazor logo" />
 
   <!-- Entornos de Desarrollo -->
   <img width="12" />
@@ -55,7 +55,7 @@
   
   <!-- Bases de Datos -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sqlserver logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="40" alt="sqlserver logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
