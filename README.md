@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MudBlazor/MudBlazor/master/src/MudBlazor.Docs/wwwroot/images/logos/mudblazor.png" height="40" alt="mudblazor logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA204l3WTFshIcxt_0PNut2t0x2l2hC6BstA&s" height="40" alt="mudblazor logo" />
 
   <!-- Entornos de Desarrollo -->
   <img width="12" />
@@ -55,7 +55,7 @@
   
   <!-- Bases de Datos -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
@@ -63,7 +63,7 @@
   
   <!-- Tecnologías y Herramientas -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws logo" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
