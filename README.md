@@ -55,7 +55,7 @@
   
   <!-- Bases de Datos -->
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="40" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
