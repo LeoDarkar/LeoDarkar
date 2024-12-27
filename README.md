@@ -8,10 +8,10 @@
 ###
 
 <p align="left">- 🧠 Strong problem-solving skills, with a focus on optimizing processes and architectures.<br>
-📚 Lifelong learner, always staying up-to-date with the latest tech trends and best practices.<br>
-🤝 Collaborative team player, skilled in working with diverse teams to achieve common goals.<br>
-⚡ In my spare time, I explore new tools and frameworks to enhance my workflow and skills.<br>
-🎯 Goal-driven and adaptable, quick to learn and implement new technologies.</p>
+<p align="left">-📚 Lifelong learner, always staying up-to-date with the latest tech trends and best practices.<br>
+<p align="left">-🤝 Collaborative team player, skilled in working with diverse teams to achieve common goals.<br>
+<p align="left">-⚡ In my spare time, I explore new tools and frameworks to enhance my workflow and skills.<br>
+<p align="left">-🎯 Goal-driven and adaptable, quick to learn and implement new technologies.</p>
 
 ###
 
